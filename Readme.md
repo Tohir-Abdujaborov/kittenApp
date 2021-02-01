@@ -37,6 +37,7 @@ Current app fetches kitten-images from [placekitten.com] API. There are two view
 			getKittens($_GET['kittensAmountToFetch']); 
 		}
 ?>`
+7. I stored API in my own server Tohir.lt. This solution was the best for me, because it returns a JSON-object. But [placekitten.com] was straitly rendering a kitten image. I could use such way, but it is not includes in the rules of List View.   
 # Video Screenshot 
 - You will be able to watch video screenshot by opening this link: [https://drive.google.com/file/d/1cPH2_Ur7Qx1AYH-6JzxTYR-WwsKo_9U_/view?usp=sharing]
 - 
