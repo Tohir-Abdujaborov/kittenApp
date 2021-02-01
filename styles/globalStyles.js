@@ -1,0 +1,1 @@
+export const headerBackgroundColor = "#ABB9BC";
